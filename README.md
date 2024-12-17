@@ -1,6 +1,6 @@
 <h1>Hi, I'm Naga Veera Venu Sai Suneel Bondada! <br/>
 <a href="https://github.com/">DevOps Engineer</a>, 
-<a href="https://www.linkedin.com/in/naga-veera-venu-sai-suneel-bondada/">Cloud Enthusiast</a>, 
+<a href="https://www.linkedin.com/in/naga-veera-venu-sai-suneel-bondada/">Cloud Enthusiast</a>
 
 <h2>👨‍💻 Professional Experience:</h2>
 
